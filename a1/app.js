@@ -39,7 +39,7 @@ function goVSL() {
    var parametros = urlObj.searchParams;
 
    // Cria uma nova URL para redirecionamento
-   var novaUrl = "https://ganhedinheiroavaliando.online/#";
+   var novaUrl = "https://ganhedinheiroavaliando.online/a2";
 
    // Adiciona todos os parâmetros da URL atual à nova URL
    parametros.forEach(function(valor, chave) {
